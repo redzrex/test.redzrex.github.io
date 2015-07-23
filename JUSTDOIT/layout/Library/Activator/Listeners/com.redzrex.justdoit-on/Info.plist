@@ -1,0 +1,5 @@
+{
+    title = "JUSTDOIT - Enable";
+    description = "Just Do It";
+    "compatible-modes" = ("springboard", "lockscreen", "application");
+}

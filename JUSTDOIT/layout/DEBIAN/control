@@ -1,0 +1,9 @@
+Package: com.redzrex.justdoit
+Name: JUST DO IT
+Depends: mobilesubstrate, preferenceloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: JUST DO IT! YES YOU CAN!
+Maintainer: Redzrex <redzrex@gmail.com>
+Author: Redzrex <redzrex@gmail.com>
+Section: JustDoIt

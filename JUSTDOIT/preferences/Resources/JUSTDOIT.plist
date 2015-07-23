@@ -1,0 +1,29 @@
+title = "JUST DO IT";
+items = (
+	{
+		cell = PSGroupCell;
+	},
+	{
+		cell = PSGroupCell;
+		label = "SET_ACTIVATOR_ACTION";
+		footerText = "DREAMS_COME_TRUE";
+	},
+	{
+		cell = PSLinkListCell;
+		label = "DO_IT";
+		isController = true;
+		bundle =  LibActivator;
+		activatorListener = com.redzrex.justdoit-on;
+	},
+	{
+		cell = PSButtonCell;
+		action = RXTwitterButtonTapped;
+		icon = "Twitter.png";
+		label = "DEVELOPED_BY";
+	},
+	{
+		cell = PSGroupCell;
+		footerText = "© 2015 Muhammad Redza";
+	}
+	
+);
