@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = JUSTDOIT;
+	cell = PSLinkCell;
+	detail = JUSTDOITListController;
+	icon = JUSTDOIT.png;
+	isController = 1;
+	label = JUSTDOIT;
+    };
+}
